@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(npx storybook@latest init:*)",
+      "Bash(mkdir:*)",
+      "Bash(npm run storybook:*)",
+      "Bash(for file in *.ts)",
+      "Bash(do mv \"$file\" \"$file%.ts.tsx\")",
+      "Bash(done)",
+      "WebFetch(domain:ionicframework.com)",
+      "Bash(find:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
