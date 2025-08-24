@@ -4,7 +4,7 @@ import { chevronDown, information, settings, person } from 'ionicons/icons';
 import React from 'react';
 
 const meta: Meta<typeof IonAccordion> = {
-  title: 'Ionic/IonAccordion',
+  title: 'Ionic/Ion Accordion',
   component: IonAccordion,
   parameters: {
     layout: 'centered',

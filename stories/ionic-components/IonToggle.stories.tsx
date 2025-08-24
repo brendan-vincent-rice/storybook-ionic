@@ -3,7 +3,7 @@ import { IonToggle, IonItem, IonLabel } from '@ionic/react';
 import React from 'react';
 
 const meta: Meta<typeof IonToggle> = {
-  title: 'Ionic/IonToggle',
+  title: 'Ionic/Ion Toggle',
   component: IonToggle,
   parameters: {
     layout: 'centered',

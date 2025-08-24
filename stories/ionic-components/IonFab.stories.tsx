@@ -4,7 +4,7 @@ import { add, share, heart, bookmark, chevronUp, logoVimeo, logoFacebook, logoTw
 import React from 'react';
 
 const meta: Meta<typeof IonFab> = {
-  title: 'Ionic/IonFab',
+  title: 'Ionic/Ion Fab',
   component: IonFab,
   parameters: {
     layout: 'centered',

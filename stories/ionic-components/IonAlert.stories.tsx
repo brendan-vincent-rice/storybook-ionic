@@ -18,7 +18,7 @@ const AlertWrapper = (args: any) => {
 };
 
 const meta: Meta<typeof IonAlert> = {
-  title: 'Ionic/IonAlert',
+  title: 'Ionic/Ion Alert',
   component: IonAlert,
   parameters: {
     layout: 'centered',

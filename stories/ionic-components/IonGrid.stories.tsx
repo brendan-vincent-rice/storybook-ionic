@@ -3,7 +3,7 @@ import { IonGrid, IonRow, IonCol } from '@ionic/react';
 import React from 'react';
 
 const meta: Meta<typeof IonGrid> = {
-  title: 'Ionic/IonGrid',
+  title: 'Ionic/Ion Grid',
   component: IonGrid,
   parameters: {
     layout: 'centered',

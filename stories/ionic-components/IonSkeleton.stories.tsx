@@ -3,7 +3,7 @@ import { IonSkeletonText, IonItem, IonAvatar, IonLabel, IonList, IonThumbnail, I
 import React from 'react';
 
 const meta: Meta<typeof IonSkeletonText> = {
-  title: 'Ionic/IonSkeleton',
+  title: 'Ionic/Ion Skeleton',
   component: IonSkeletonText,
   parameters: {
     layout: 'centered',

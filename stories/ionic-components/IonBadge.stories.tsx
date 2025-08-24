@@ -4,7 +4,7 @@ import { mail, notifications, heart } from 'ionicons/icons';
 import React from 'react';
 
 const meta: Meta<typeof IonBadge> = {
-  title: 'Ionic/IonBadge',
+  title: 'Ionic/Ion Badge',
   component: IonBadge,
   parameters: {
     layout: 'centered',

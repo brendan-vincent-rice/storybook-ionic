@@ -19,7 +19,7 @@ const ModalWrapper = (args: any) => {
 };
 
 const meta: Meta<typeof IonModal> = {
-  title: 'Ionic/IonModal',
+  title: 'Ionic/Ion Modal',
   component: IonModal,
   parameters: {
     layout: 'centered',

@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/react';
 import { IonButton } from '@ionic/react';
 
 const meta: Meta<typeof IonButton> = {
-  title: 'Ionic/IonButton',
+  title: 'Ionic/Ion Button',
   component: IonButton,
   parameters: {
     layout: 'centered',

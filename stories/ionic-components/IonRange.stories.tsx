@@ -4,7 +4,7 @@ import { volumeLow, volumeHigh, sunny } from 'ionicons/icons';
 import React from 'react';
 
 const meta: Meta<typeof IonRange> = {
-  title: 'Ionic/IonRange',
+  title: 'Ionic/Ion Range',
   component: IonRange,
   parameters: {
     layout: 'centered',

@@ -3,7 +3,7 @@ import { IonSelect, IonSelectOption, IonItem, IonLabel } from '@ionic/react';
 import React from 'react';
 
 const meta: Meta<typeof IonSelect> = {
-  title: 'Ionic/IonSelect',
+  title: 'Ionic/Ion Select',
   component: IonSelect,
   parameters: {
     layout: 'centered',

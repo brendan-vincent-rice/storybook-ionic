@@ -4,7 +4,7 @@ import { arrowBack, chevronBack, caretBack } from 'ionicons/icons';
 import React from 'react';
 
 const meta: Meta<typeof IonBackButton> = {
-  title: 'Ionic/IonBackButton',
+  title: 'Ionic/Ion BackButton',
   component: IonBackButton,
   parameters: {
     layout: 'centered',

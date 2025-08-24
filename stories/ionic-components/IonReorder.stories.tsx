@@ -4,7 +4,7 @@ import { pizza, wine, restaurant, iceCream, cafe } from 'ionicons/icons';
 import React, { useState } from 'react';
 
 const meta: Meta<typeof IonReorder> = {
-  title: 'Ionic/IonReorder',
+  title: 'Ionic/Ion Reorder',
   component: IonReorder,
   parameters: {
     layout: 'centered',

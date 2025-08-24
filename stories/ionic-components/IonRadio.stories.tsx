@@ -3,7 +3,7 @@ import { IonRadio, IonRadioGroup, IonItem, IonLabel, IonList } from '@ionic/reac
 import React, { useState } from 'react';
 
 const meta: Meta<typeof IonRadio> = {
-  title: 'Ionic/IonRadio',
+  title: 'Ionic/Ion Radio',
   component: IonRadio,
   parameters: {
     layout: 'centered',

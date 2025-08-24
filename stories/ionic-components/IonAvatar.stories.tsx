@@ -3,7 +3,7 @@ import { IonAvatar, IonItem, IonLabel, IonList, IonChip } from '@ionic/react';
 import React from 'react';
 
 const meta: Meta<typeof IonAvatar> = {
-  title: 'Ionic/IonAvatar',
+  title: 'Ionic/Ion Avatar',
   component: IonAvatar,
   parameters: {
     layout: 'centered',

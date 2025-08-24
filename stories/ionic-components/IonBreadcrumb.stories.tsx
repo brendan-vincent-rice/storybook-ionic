@@ -4,7 +4,7 @@ import { home, folder, document, chevronForward } from 'ionicons/icons';
 import React from 'react';
 
 const meta: Meta<typeof IonBreadcrumb> = {
-  title: 'Ionic/IonBreadcrumb',
+  title: 'Ionic/Ion Breadcrumb',
   component: IonBreadcrumb,
   parameters: {
     layout: 'centered',

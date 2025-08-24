@@ -3,7 +3,7 @@ import { IonImg, IonCard, IonCardContent, IonItem, IonThumbnail, IonLabel } from
 import React from 'react';
 
 const meta: Meta<typeof IonImg> = {
-  title: 'Ionic/IonImg',
+  title: 'Ionic/Ion Img',
   component: IonImg,
   parameters: {
     layout: 'centered',

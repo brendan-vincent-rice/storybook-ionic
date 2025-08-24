@@ -3,7 +3,7 @@ import { IonInfiniteScroll, IonInfiniteScrollContent, IonContent, IonList, IonIt
 import React, { useState, useCallback } from 'react';
 
 const meta: Meta<typeof IonInfiniteScroll> = {
-  title: 'Ionic/IonInfiniteScroll',
+  title: 'Ionic/Ion InfiniteScroll',
   component: IonInfiniteScroll,
   parameters: {
     layout: 'centered',

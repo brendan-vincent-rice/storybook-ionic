@@ -3,7 +3,7 @@ import { IonTextarea, IonItem, IonLabel } from '@ionic/react';
 import React from 'react';
 
 const meta: Meta<typeof IonTextarea> = {
-  title: 'Ionic/IonTextarea',
+  title: 'Ionic/Ion Textarea',
   component: IonTextarea,
   parameters: {
     layout: 'centered',

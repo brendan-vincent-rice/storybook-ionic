@@ -3,7 +3,7 @@ import { IonInput, IonItem, IonLabel } from '@ionic/react';
 import React from 'react';
 
 const meta: Meta<typeof IonInput> = {
-  title: 'Ionic/IonInput',
+  title: 'Ionic/Ion Input',
   component: IonInput,
   parameters: {
     layout: 'centered',

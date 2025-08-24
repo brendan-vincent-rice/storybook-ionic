@@ -25,7 +25,7 @@ const LoadingWrapper = (args: any) => {
 };
 
 const meta: Meta<typeof IonLoading> = {
-  title: 'Ionic/IonLoading',
+  title: 'Ionic/Ion Loading',
   component: IonLoading,
   parameters: {
     layout: 'centered',

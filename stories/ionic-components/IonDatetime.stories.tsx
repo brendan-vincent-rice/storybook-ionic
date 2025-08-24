@@ -3,7 +3,7 @@ import { IonDatetime, IonItem, IonLabel } from '@ionic/react';
 import React from 'react';
 
 const meta: Meta<typeof IonDatetime> = {
-  title: 'Ionic/IonDatetime',
+  title: 'Ionic/Ion Datetime',
   component: IonDatetime,
   parameters: {
     layout: 'centered',

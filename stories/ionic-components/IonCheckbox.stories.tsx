@@ -3,7 +3,7 @@ import { IonCheckbox, IonItem, IonLabel, IonList } from '@ionic/react';
 import React from 'react';
 
 const meta: Meta<typeof IonCheckbox> = {
-  title: 'Ionic/IonCheckbox',
+  title: 'Ionic/Ion Checkbox',
   component: IonCheckbox,
   parameters: {
     layout: 'centered',

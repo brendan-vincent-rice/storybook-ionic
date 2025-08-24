@@ -19,7 +19,7 @@ const ActionSheetWrapper = (args: any) => {
 };
 
 const meta: Meta<typeof IonActionSheet> = {
-  title: 'Ionic/IonActionSheet',
+  title: 'Ionic/Ion ActionSheet',
   component: IonActionSheet,
   parameters: {
     layout: 'centered',

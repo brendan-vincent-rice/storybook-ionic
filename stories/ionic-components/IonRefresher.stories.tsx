@@ -4,7 +4,7 @@ import { chevronDownCircleOutline, arrowDownOutline, refresh } from 'ionicons/ic
 import React, { useState, useCallback } from 'react';
 
 const meta: Meta<typeof IonRefresher> = {
-  title: 'Ionic/IonRefresher',
+  title: 'Ionic/Ion Refresher',
   component: IonRefresher,
   parameters: {
     layout: 'centered',

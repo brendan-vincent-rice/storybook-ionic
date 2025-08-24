@@ -21,7 +21,7 @@ const PopoverWrapper = (args: any) => {
 };
 
 const meta: Meta<typeof IonPopover> = {
-  title: 'Ionic/IonPopover',
+  title: 'Ionic/Ion Popover',
   component: IonPopover,
   parameters: {
     layout: 'centered',

@@ -4,7 +4,7 @@ import { close, checkmark } from 'ionicons/icons';
 import React from 'react';
 
 const meta: Meta<typeof IonChip> = {
-  title: 'Ionic/IonChip',
+  title: 'Ionic/Ion Chip',
   component: IonChip,
   parameters: {
     layout: 'centered',

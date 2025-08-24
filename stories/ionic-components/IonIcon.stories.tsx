@@ -26,7 +26,7 @@ import {
 import React from 'react';
 
 const meta: Meta<typeof IonIcon> = {
-  title: 'Ionic/IonIcon',
+  title: 'Ionic/Ion Icon',
   component: IonIcon,
   parameters: {
     layout: 'centered',

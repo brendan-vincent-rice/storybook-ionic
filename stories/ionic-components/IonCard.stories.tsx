@@ -3,7 +3,7 @@ import { IonCard, IonCardHeader, IonCardTitle, IonCardSubtitle, IonCardContent, 
 import React from 'react';
 
 const meta: Meta<typeof IonCard> = {
-  title: 'Ionic/IonCard',
+  title: 'Ionic/Ion Card',
   component: IonCard,
   parameters: {
     layout: 'centered',

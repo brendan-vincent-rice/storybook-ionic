@@ -4,7 +4,7 @@ import { chevronForward, star, heart, bookmark } from 'ionicons/icons';
 import React from 'react';
 
 const meta: Meta<typeof IonList> = {
-  title: 'Ionic/IonList',
+  title: 'Ionic/Ion List',
   component: IonList,
   parameters: {
     layout: 'centered',

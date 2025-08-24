@@ -18,7 +18,7 @@ const ToastWrapper = (args: any) => {
 };
 
 const meta: Meta<typeof IonToast> = {
-  title: 'Ionic/IonToast',
+  title: 'Ionic/Ion Toast',
   component: IonToast,
   parameters: {
     layout: 'centered',

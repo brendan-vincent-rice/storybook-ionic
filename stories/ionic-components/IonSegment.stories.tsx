@@ -4,7 +4,7 @@ import { call, camera, bookmark, heart } from 'ionicons/icons';
 import React, { useState } from 'react';
 
 const meta: Meta<typeof IonSegment> = {
-  title: 'Ionic/IonSegment',
+  title: 'Ionic/Ion Segment',
   component: IonSegment,
   parameters: {
     layout: 'centered',

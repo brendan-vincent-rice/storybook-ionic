@@ -3,7 +3,7 @@ import { IonProgressBar, IonItem, IonLabel } from '@ionic/react';
 import React from 'react';
 
 const meta: Meta<typeof IonProgressBar> = {
-  title: 'Ionic/IonProgressBar',
+  title: 'Ionic/Ion ProgressBar',
   component: IonProgressBar,
   parameters: {
     layout: 'centered',
