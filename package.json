@@ -10,7 +10,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build -o storybook-static",
-    "vercel-build": "storybook build -o storybook-static"
+    "vercel-build": "storybook build -o storybook-static",
+    "deploy:storybook": "cp vercel-storybook.json vercel.json && vercel --prod",
+    "deploy:app": "cp vercel-app.json vercel.json && vercel --prod"
   },
   "keywords": [],
   "author": "",
